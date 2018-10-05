@@ -1,0 +1,10 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "description": "Frontend za studentski projekat na RAFu, na predmetu \"Skript jezici\".",
+  "main": "index.js",
+  "repository": "git@bitbucket.org:raf-raspored-skript/frontend.git",
+  "author": "tim",
+  "license": "MIT",
+  "private": true
+}
